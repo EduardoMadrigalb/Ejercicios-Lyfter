@@ -1,0 +1,173 @@
+Ejercicios
+
+1. Cree un algoritmo para ver un video en Youtube. Sea lo más específico posible
+    
+    Respuesta:
+    
+    1. Inicio
+    2. Encender computadora
+        1. Presionar el botón de encendido
+    3. Desbloquear la computadora
+        1. Escoger el usuario
+        2. Escribir la contraseña
+    4. Ingresar a un navegador web
+        1. Buscar el icono del navegador web 
+        2. Abrir el navegador web
+            1. Hacer doble clip en el icono de navegador
+    5. Ingresar YouTube en el buscador
+        1. Escribir en el navegador youtube.com
+        2. Presionar enter para acceder al URL
+    6. Buscar un video
+    7. Reproducir el video
+    8. Fin
+
+
+2. Cree un algoritmo que describa su rutina diaria. Use condiciones, condiciones múltiples y ciclos
+    
+    Respuesta:
+    
+    1. Inicio
+    2. Me levanto 
+    3. Me lavo los dientes
+        1. Buscar el cepillo y la pasta
+            1. Ponerle pasta al cepillo
+            2. Mientras que los dientes estén sucios: 
+                1. Cepillarse los dientes
+            3. FinMientras
+            4. Enjuagarse la boca
+        2. Guardar el cepillo y la pasta
+    4. Hacer desayuno
+        1. Cocino 4 huevos
+            1. Buscar un sartén limpio
+            2. Poner a calentar el sartén
+            3. Echar aceite en el sartén
+            4. Echar los 4 huevos en el sartén caliente
+            5. Batir con una espátula de madera
+            6. Mientras los huevos estén crudos
+                1. Dejar los huevos en el sartén
+            7. FinMientras
+            8. Sacar los huevos del sartén
+        2. Guardar el desayuno en el toper
+        3. Buscar alguna fruta en el refrigerador
+        4. Guardar el desayuno en el refri
+    5. Me baño
+    6. Me mudo
+    7. Ir al trabajo
+        1. Salir de casa
+        2. Si tiene automóvil y el automóvil tiene gasolina:
+            1. Ir en automóvil
+        3. Sino, si tiene motocicleta y la motocicleta tiene gasolina:
+            1. Ir en motocicleta
+        4. sino:
+            1. Ir en Buseta del Trabajo
+        5. FinSi
+    8. Trabajar
+        1. Encender la PC
+        2. Hacer login
+        3. Ingresar datos al sistema
+    9. Desayunar
+        1. Ir a concina del piso
+        2. Alistar el desayuno
+            1. Sacar el toper del refri
+            2. Calentar en el microondas
+        3. Comer la fruta y los huevos.
+        4. Lavar el toper
+            1. Mientras el toper este sucio
+                1. Restriegue el toper con la esponja
+            2. FinMientras
+        5. Guardar el toper en el locker
+    10. Vuelvo a trabajar
+        1. Volver a la oficina
+        2. Desbloquear la PC
+        3. Ingresar Datos al sistema
+    11. Almuerzo
+        1. Ir a la cocina del piso
+        2. Calentar el almuerzo
+            1. Sacar el almuerzo del refri
+            2. Calentar en el microondas 2 min
+        3. Comer el almuerzo
+        4. Lavar el toper del almuerzo
+            1. Mientras el toper este sucio
+                1. Restregar el toper con la esponja.
+            2. FinMientras
+        5. Guardar el toper en el Locke
+    12. Terminar de trabajar
+        1. Volver a la oficina
+        2. Desbloquear la PC
+        3. Ingresar datos en el sistema hasta el final del shift
+        4. Apagar la PC
+    13. Regreso a casa del trabajo
+        1. Salir del trabajo
+        2. Si fue en automóvil 
+            
+             i. Volver a casa en automóvil
+            
+        3. Sino, si fue en motocicleta
+            
+             i. Volver a casa en motocicleta
+            
+        4. Sino: 
+            
+             i. Volver en la buseta del trabajo
+            
+        5. FinSi
+    14. Llego a casa
+    15. Tomo una siesta
+    16. Me levanto
+    17. Preparo café
+        1. Agarrar la bolsa de café
+            1. Buscar la bolsa de café
+            2. Quitar la liga de la bolsa
+        2. Servir dos cucharadas de café en el chorreador
+        3. Calentar Agua
+        4. Buscar una taza
+            1. Abrir la alacena 
+            2. Tomar la taza 
+            3. Cerrar la alacena
+        5. Chorrear el café en una taza
+        6. Si le gusta el café con azúcar
+            1. Buscar el azúcar
+            2. Poner 2 cucharadas de azúcar
+        7. Sino, tomar el café sin azúcar
+        8. FinSi
+    18. Estudiar
+        1. Encender la PC
+        2. Ingresar a lyfter
+        3. Explorar el contenido semanal
+    19. Preparar el almuerzo del día siguiente
+        1. Preparar el arroz
+            1. Buscar el recipiente de arroz
+            2. Sacar una taza de arroz del recipiente
+            3. Echar el arroz en la olla arrocera
+            4. Echar una taza con agua
+            5. Encender la arrocera en modo cocción
+            6. Esperar 15 min
+            7. Sacar el arroz 
+            8. Poner el arroz en el toper.
+        2. Preparar la proteína 
+            1. Sacar la proteína del refri 
+            2. Adobar la proteína
+            3. Meter la proteína en la freidora de aire.
+            4.  Esperar 15 min 
+            5. Sacar la proteína 
+            6. Meterla en el toper
+        3. Preparar la ensalada
+            1. Abrir el refri
+            2. Preguntarme que verduras quiero utilizar
+            3. Sacar tomates o lechuga o pepino o zanahoria
+            4. Abrir la alacena 
+            5. Sacar la tabla de picar y el cuchillo
+            6. Picar la ensalada 
+            7. Echarla en el toper
+        4. Esperar que el almuerzo se enfrié
+        5. Meterlo al refri
+    20. Me lavo los dientes
+        1. Buscar el cepillo y la pasta
+            1. Ponerle pasta al cepillo
+            2. Mientras que los dientes estén sucios: 
+                1. Cepillarse los dientes
+            3. FinMientras
+            4. Enjuagarse la boca
+        2. Guardar el cepillo y la pasta
+    21. Me acuesto a dormir
+    22. Fin
