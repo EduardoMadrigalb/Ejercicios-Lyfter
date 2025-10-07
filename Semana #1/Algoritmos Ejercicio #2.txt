@@ -1,27 +1,3 @@
-Ejercicios
-
-1. Cree un algoritmo para ver un video en Youtube. Sea lo más específico posible
-    
-    Respuesta:
-    
-    1. Inicio
-    2. Encender computadora
-        1. Presionar el botón de encendido
-    3. Desbloquear la computadora
-        1. Escoger el usuario
-        2. Escribir la contraseña
-    4. Ingresar a un navegador web
-        1. Buscar el icono del navegador web 
-        2. Abrir el navegador web
-            1. Hacer doble clip en el icono de navegador
-    5. Ingresar YouTube en el buscador
-        1. Escribir en el navegador youtube.com
-        2. Presionar enter para acceder al URL
-    6. Buscar un video
-    7. Reproducir el video
-    8. Fin
-
-
 2. Cree un algoritmo que describa su rutina diaria. Use condiciones, condiciones múltiples y ciclos
     
     Respuesta:
